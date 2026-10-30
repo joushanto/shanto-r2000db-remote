@@ -116,7 +116,7 @@ The source directory names retain the upstream layout; Kotlin declarations and t
 
 ### Original Android application
 
-**Norbert Rybicki**, copyright © 2023. [Edifier-RC10D1 source](https://github.com/norbicki/Edifier-RC10D1), also available through [F-Droid](https://f-droid.org/en/packages/ir.remote.edifier.rc10d1/). Adapted from commit [`416c46f`](https://github.com/norbicki/Edifier-RC10D1/commit/416c46f28a8ae0d6dd42670c4f8d23544b8624aa). Licensed under **GNU GPL v3.0 or later**; see [LICENSE](LICENSE). The original Git history is preserved.
+**Norbert Rybicki**, copyright © 2023. [Edifier-RC10D1 source](https://github.com/norbicki/Edifier-RC10D1), also available through [F-Droid](https://f-droid.org/en/packages/ir.remote.edifier.rc10d1/). Adapted from commit [`416c46f`](https://github.com/norbicki/Edifier-RC10D1/commit/416c46f28a8ae0d6dd42670c4f8d23544b8624aa). Licensed under **GNU GPL v3.0 or later**; see [LICENSE](LICENSE). The original author’s commit history is available in the upstream repository.
 
 ### Infrared command definitions
 
