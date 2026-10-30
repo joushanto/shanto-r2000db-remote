@@ -1,1 +1,1 @@
-Unofficial remote control for Edifier R2730DB speakers
+Infrared remote for Edifier R2000DB / RC10D, with input and EQ controls.

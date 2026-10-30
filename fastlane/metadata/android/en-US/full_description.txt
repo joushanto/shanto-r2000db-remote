@@ -1,1 +1,1 @@
-A simple, unofficial remote control for Edifier R2730DB speakers for phones equipped with an infrared emitter.
+An unofficial R2000DB remote adapted from Norbert Rybicki’s Edifier RC10D1 app. Requires a phone with an infrared emitter. Supports power, mute, volume, Line 1, Line 2, optical, Bluetooth, Classic EQ and Dynamic EQ.

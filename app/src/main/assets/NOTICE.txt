@@ -1,0 +1,15 @@
+Shanto's R2000DB Remote
+
+Adapted from Edifier-RC10D1 by Norbert Rybicki.
+Copyright (C) 2023 Norbert Rybicki.
+https://github.com/norbicki/Edifier-RC10D1
+GPL version 3 or later; see LICENSE-GPL-3.0.txt.
+
+R2000DB command mapping derived from infrared-protocols.
+Copyright (c) 2026 Home Assistant Team.
+https://github.com/home-assistant-libs/infrared-protocols
+MIT license; see LICENSE-infrared-protocols.txt.
+
+Modified 2026-10-31: separate application identity, corrected R2000DB inputs,
+Classic and Dynamic EQ, accessible labeled buttons, IR error handling.
+Unofficial application, not affiliated with Edifier.

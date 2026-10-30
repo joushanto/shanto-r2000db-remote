@@ -1,5 +1,22 @@
 <resources>
-    <string name="app_name">Edifier RC10D1</string>
-    <string name="edifier">Edifier</string>
-    <string name="model">RC10D1</string>
+    <string name="app_name">Shanto’s R2000DB Remote</string>
+    <string name="model">Edifier R2000DB · RC10D</string>
+    <string name="title">Your music. One tap.</string>
+    <string name="power">Power</string>
+    <string name="mute">Mute</string>
+    <string name="volume_up">Volume +</string>
+    <string name="volume_down">Volume −</string>
+    <string name="line1">Line 1</string>
+    <string name="line2">Line 2</string>
+    <string name="opt">Optical</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="eq_classic">Classic</string>
+    <string name="eq_dynamic">Dynamic</string>
+    <string name="inputs">INPUT</string>
+    <string name="equalizer">EQ MODE</string>
+    <string name="ready">Point your phone’s IR emitter at the speaker.</string>
+    <string name="no_ir">No infrared emitter detected on this device.</string>
+    <string name="sent">Sent: %1$s</string>
+    <string name="send_failed">Could not transmit. Please try again.</string>
+    <string name="feedback">Commands are sent by infrared. The speaker does not report its current state.</string>
 </resources>

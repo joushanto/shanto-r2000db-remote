@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'ir.remote.edifier.rc10d1'
+    namespace 'com.shanto.r2000dbremote'
     compileSdk 34
 
     defaultConfig {
-        applicationId "ir.remote.edifier.rc10d1"
+        applicationId "com.shanto.r2000dbremote"
         minSdk 21
         targetSdk 34
         versionCode 1

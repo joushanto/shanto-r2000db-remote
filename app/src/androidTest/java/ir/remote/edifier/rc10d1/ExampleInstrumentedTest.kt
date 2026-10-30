@@ -1,4 +1,4 @@
-package ir.remote.edifier.rc10d1
+package com.shanto.r2000dbremote
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ir.remote.edifier.rc10e", appContext.packageName)
+        assertEquals("com.shanto.r2000dbremote", appContext.packageName)
     }
 }

@@ -1,16 +1,1 @@
-<resources>
-    <!-- Base application theme. -->
-    <style name="Theme.EdifierRC10D1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/black</item>
-        <item name="colorPrimaryVariant">@color/black</item>
-        <item name="colorOnPrimary">@color/black</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/black</item>
-        <item name="colorSecondaryVariant">@color/black</item>
-        <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
-    </style>
-</resources>
+<resources><style name="Theme.EdifierRC10D1" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="colorPrimary">#85DCD2</item><item name="colorPrimaryVariant">#101923</item><item name="colorOnPrimary">#101923</item><item name="colorSecondary">#85DCD2</item><item name="android:statusBarColor">#101923</item><item name="android:navigationBarColor">#101923</item></style></resources>
