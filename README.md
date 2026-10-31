@@ -8,6 +8,16 @@ Built upon [Edifier-RC10D1](https://github.com/norbicki/Edifier-RC10D1) by **Nor
 
 Application ID: `com.shanto.r2000dbremote`. The original RC10D1 app can remain installed.
 
+## Version 1.1 — circular dot interface
+
+A dark slate dot-grid background, circular ripple buttons, pixel-dot icons and a dot-matrix speaker heading. The volume controls use off-white circles and power uses a red accent. Inputs and both EQ controls retain the exact v1.0 infrared mappings and encoder. Buttons provide press animations and retain their native accessibility labels.
+
+![Version 1.1 design illustration](docs/dot-design-preview.png)
+
+*Design illustration generated from the layout dimensions and icon patterns, not a device screenshot. The UI redesign still needs a visual check on the phone; the original v1.0 controls were confirmed on hardware.*
+
+The v1.1 APK has version code 2. The supplied personal test build uses the same package and signing key as v1.0, so it can install as an update. A newly built APK signed with a different key follows the signing guidance below.
+
 ## Why this version exists
 
 The original RC10D1 app targets the R2730DB. Its power, mute, and volume commands also work with the R2000DB, but input commands differ: for example, its Line 1 button selects optical on an R2000DB. This adaptation corrects those mappings, removes the unsupported coax input, adds both EQ modes, and provides labeled buttons in a scrollable interface.
@@ -97,6 +107,7 @@ Test reports: `app/build/reports/tests/testDebugUnitTest/index.html`. Lint repor
 
 - `app/src/main/java/ir/remote/edifier/rc10d1/MainActivity.kt` — button bindings and IR transmission.
 - `app/src/main/java/ir/remote/edifier/rc10d1/InfraredProtocol.kt` — NEC frame and pulse encoder.
+- `app/src/main/java/ir/remote/edifier/rc10d1/RemoteViews.kt` — circular controls, dotted icons and code-drawn background/title.
 - `app/src/main/res/layout/activity_main.xml` — remote interface.
 - `app/src/main/res/values/strings.xml` — app name and button labels.
 - `app/src/test/java/ir/remote/edifier/rc10d1/InfraredProtocolTest.kt` — protocol checks.

@@ -1,1 +1,11 @@
-<resources><style name="Theme.EdifierRC10D1" parent="Theme.MaterialComponents.DayNight.NoActionBar"><item name="colorPrimary">#85DCD2</item><item name="colorPrimaryVariant">#101923</item><item name="colorOnPrimary">#101923</item><item name="colorSecondary">#85DCD2</item><item name="android:statusBarColor">#101923</item><item name="android:navigationBarColor">#101923</item></style></resources>
+<resources>
+    <style name="Theme.EdifierRC10D1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#EEEEE8</item>
+        <item name="colorPrimaryVariant">#1A1F25</item>
+        <item name="colorOnPrimary">#1A1F25</item>
+        <item name="colorSecondary">#E02F33</item>
+        <item name="android:statusBarColor">#1A1F25</item>
+        <item name="android:navigationBarColor">#1A1F25</item>
+        <item name="android:windowBackground">#1A1F25</item>
+    </style>
+</resources>

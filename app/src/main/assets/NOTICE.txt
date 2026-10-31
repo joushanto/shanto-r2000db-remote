@@ -12,4 +12,5 @@ MIT license; see LICENSE-infrared-protocols.txt.
 
 Modified 2026-10-31: separate application identity, corrected R2000DB inputs,
 Classic and Dynamic EQ, accessible labeled buttons, IR error handling.
+Version 1.1: circular controls, dot-matrix graphics, dark slate theme and press animation.
 Unofficial application, not affiliated with Edifier.
